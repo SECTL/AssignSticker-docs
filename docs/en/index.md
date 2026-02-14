@@ -4,7 +4,7 @@ config:
   - type: doc-hero
     background: tint-plate
     hero:
-      name: Homeworklsland
+      name: AssignSticker
       text: Empower every lesson
       tagline: A simple, easy-to-use homework board
       image: /logo.png
@@ -12,7 +12,7 @@ config:
         - theme: brand
           text: Download
           icon: lucide:download
-          link: https://stk.sectl.top/Homeworklsland 
+          link: https://stk.sectl.top/AssignSticker 
         - theme: brand
           text: Read Docs
           icon: lucide:list-start
@@ -20,7 +20,7 @@ config:
         - theme: alt
           text: GitHub Repository
           icon: fa-brands:github
-          link: https://github.com/SECTL/Homeworklsland
+          link: https://github.com/SECTL/AssignSticker
         - theme: alt
           text: SECTL Website
           icon: {

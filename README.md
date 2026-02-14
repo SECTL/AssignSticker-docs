@@ -1,6 +1,6 @@
-# Homeworklsland 文档站
+# AssignSticker 文档站
 
-本仓库为 [Homeworklsland](https://github.com/SECTL/Homeworklsland) 文档仓库，使用 [vuepress](https://vuepress.vuejs.org/) 和 [vuepress-theme-plume](https://github.com/pengzhanbo/vuepress-theme-plume) 构建
+本仓库为 [AssignSticker](https://github.com/SECTL/AssignSticker) 文档仓库，使用 [vuepress](https://vuepress.vuejs.org/) 和 [vuepress-theme-plume](https://github.com/pengzhanbo/vuepress-theme-plume) 构建
 
 ## 安装依赖
 

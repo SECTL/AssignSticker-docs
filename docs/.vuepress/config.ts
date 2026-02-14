@@ -5,7 +5,7 @@ import { plumeTheme } from 'vuepress-theme-plume'
 export default defineUserConfig({
   base: '/',
   lang: 'zh-CN', // 默认语言为中文，浏览器会自动检测用户语言
-  title: 'Homeworklsland',
+  title: 'AssignSticker',
   description: '一款简洁，易用的作业板',
 
   head: [
@@ -18,22 +18,22 @@ export default defineUserConfig({
   locales: {
     '/': {
       lang: 'zh-CN',
-      title: 'Homeworklsland',
+      title: 'AssignSticker',
       description: '',
     },
     '/en/': {
       lang: 'en-US',
-      title: 'Homeworklsland',
+      title: 'AssignSticker',
       description: '',
     },
   },
 
   theme: plumeTheme({
     /* 添加您的部署域名, 有助于 SEO, 生成 sitemap */
-    hostname: 'https://Homeworklsland.sectl.top/',
+    hostname: 'https://AssignSticker.sectl.top/',
 
     /* 文档仓库配置，用于 editLink */
-    docsRepo: 'https://github.com/SECTL/Homeworklsland-docs',
+    docsRepo: 'https://github.com/SECTL/AssignSticker-docs',
     docsDir: 'docs',
     docsBranch: 'main',
 
@@ -153,7 +153,7 @@ export default defineUserConfig({
     comment: {
       provider: 'Giscus', // "Artalk" | "Giscus" | "Twikoo" | "Waline"
       comment: true,
-      repo: 'SECTL/Homeworklsland-docs',
+      repo: 'SECTL/AssignSticker-docs',
       repoId: 'R_kgDOPRYlZg',
       category: 'General',
       categoryId: 'DIC_kwDOPRYlZs4CvPMD',

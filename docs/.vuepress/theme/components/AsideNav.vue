@@ -43,12 +43,12 @@ const copyPageLink = () => {
 
 <template>
   <div class="aside-nav-wrapper">
-    <VPLink class="link" no-icon href="https://github.com/SECTL/Homeworklsland">
+    <VPLink class="link" no-icon href="https://github.com/SECTL/AssignSticker">
       <span class="vpi-github-star" />
       <span class="link-text">{{ locale.star }}</span>
       <span class="vpi-arrow-right" />
     </VPLink>
-    <VPLink class="link" no-icon href="https://github.com/SECTL/Homeworklsland/issues/new/choose">
+    <VPLink class="link" no-icon href="https://github.com/SECTL/AssignSticker/issues/new/choose">
       <span class="vpi-github-issue" />
       <span class="link-text">{{ locale.issue }}</span>
       <span class="vpi-arrow-right" />

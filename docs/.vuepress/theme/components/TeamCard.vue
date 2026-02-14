@@ -2,7 +2,7 @@
   <div class="team-card">
     <div class="content-container">
       <h6 class="intro-text">{{ introText }}</h6>
-      <h1 class="team-name">Homeworklsland<br/>{{ teamNameText }}</h1>
+      <h1 class="team-name">AssignSticker<br/>{{ teamNameText }}</h1>
       <div class="typing-container">
         <h2 class="typing-text">
           <span id="typing-text"></span>

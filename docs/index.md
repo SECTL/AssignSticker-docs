@@ -4,7 +4,7 @@ config:
   - type: doc-hero
     background: tint-plate
     hero:
-      name: Homeworklsland
+      name: AssignSticker
       text: 助力每一节课堂教学
       tagline: 一款简洁，易用的作业板
       image: /logo.png
@@ -12,7 +12,7 @@ config:
         - theme: brand
           text: 下载
           icon: lucide:download
-          link: https://stk.sectl.top/Homeworklsland
+          link: https://stk.sectl.top/AssignSticker
         - theme: brand
           text: 阅读文档
           icon: lucide:list-start
@@ -20,7 +20,7 @@ config:
         - theme: alt
           text: Github 仓库
           icon: fa-brands:github
-          link: https://github.com/SECTL/Homeworklsland
+          link: https://github.com/SECTL/AssignSticker
         - theme: alt
           text: SECTL 网站
           icon: {
