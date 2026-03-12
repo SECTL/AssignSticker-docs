@@ -12,7 +12,6 @@ const zhNavbar = defineNavbarConfig([
     icon: 'mi:book',
     items: [
       { text: '指南', icon: 'ep:guide', link: '/doc/guide/start' },
-      { text: '设置', icon: 'garden:gear-stroke-16', link: '/doc/settings/basic' },
       { text: '资源', icon: 'carbon:document', link: '/doc/resources/contribute' },
     ],
   },
@@ -31,7 +30,6 @@ const enNavbar = defineNavbarConfig([
     icon: 'mi:book',
     items: [
       { text: 'Guide', icon: 'ep:guide', link: '/en/doc/guide/start' },
-      { text: 'Settings', icon: 'garden:gear-stroke-16', link: '/en/doc/settings/basic' },
       { text: 'Resources', icon: 'carbon:document', link: '/en/doc/resources/contribute' },
     ],
   },

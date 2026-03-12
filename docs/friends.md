@@ -4,14 +4,6 @@ title: 友情链接
 editLink: false
 cols: 3
 list:
-  - name: Python
-    link: https://www.python.org/
-    avatar: /icon/python.png
-    desc: 强大的编程语言，简单易学
-  - name: PyQt5
-    link: https://doc.qt.io/qtforpython-5/
-    avatar: /icon/qt.png
-    desc: QtQuick + PyQt5，构建跨平台GUI应用
   - name: 智教联盟论坛
     link: https://forum.smart-teach.cn/
     avatar: /icon/SmartTeach.png
