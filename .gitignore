@@ -1,0 +1,15 @@
+**/node_modules
+
+docs/.vuepress/.cache
+docs/.vuepress/.temp
+docs/.vuepress/dist
+.vuepress/.cache
+.vuepress/.temp
+.vp-cache
+.vp-cache-*
+.vp-runtime-*
+.vp-temp-*
+.vp-runtime-*
+
+.DS_Store
+*.log
