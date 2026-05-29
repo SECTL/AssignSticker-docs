@@ -7,6 +7,7 @@ export default defineUserConfig({
   lang: 'zh-CN', // 默认语言为中文，浏览器会自动检测用户语言
   title: 'AssignSticker',
   description: '一款简洁，易用的作业板',
+  
 
   head: [
     ['link', { rel: 'icon', type: 'image/png', href: '/logo.png' }],
@@ -26,6 +27,7 @@ export default defineUserConfig({
       title: 'AssignSticker',
       description: '',
     },
+    
   },
 
   theme: plumeTheme({
