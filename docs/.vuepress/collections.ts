@@ -11,9 +11,13 @@ const Doc = defineCollection({
   title: "文档",
   meta: { createTime: "long" },
   sidebar: [
-    { text: '概览', icon: 'material-symbols:overview-outline-rounded', link: 'overview' },
+    { text: '概览', icon: 'material-symbols:overview-outline-rounded', items: [
+      { text: '这是什么？', link: 'overview/whatis' },
+    ] },
+
     { text: '指南', icon: 'ep:guide', prefix: 'guide', items: [
       { text: '下载与运行', link: 'start' },
+
     ] },
     { text: '资源', icon: 'carbon:document', prefix: 'resources', items: [
       { text: '贡献指南', link: 'contribute' },
@@ -44,7 +48,7 @@ const EnDoc = defineCollection({
   title: "Documentation",
   meta: { createTime: "long" },
   sidebar: [
-    { text: 'Overview', icon: 'material-symbols:overview-outline-rounded', link: 'overview' },
+    { text: 'Overview', icon: 'material-symbols:overview-outline-rounded' },
     { text: 'Guide', icon: 'ep:guide', prefix: 'guide', items: [
       { text: 'Download & Run', link: 'start' },
     ] },
