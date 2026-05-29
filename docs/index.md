@@ -5,9 +5,9 @@ config:
     background: tint-plate
     hero:
       name: AssignSticker
-      text: 助力每一节课堂教学
+      text: 全新一代作业看板
       tagline: 一款简洁，易用的作业板
-      image: /logo.png
+      image: /icon.png
       actions:
         - theme: brand
           text: 下载
@@ -30,8 +30,16 @@ config:
           
   - type: features
     features:
-      - title: 还没有写呢
-        icon: lucide:users
-        details: 一款简洁，易用的作业板
+      - title: 跨平台支持
+        icon: material-symbols:app-registration
+            
+       
+        details: 基于Avalonia+C#构建，能够顺利的在 Windows、Linux、macOS 上完美运行。
+      - title: 界面美观、简洁
+        icon: material-symbols:pages
+        details: 使用 fluentavalonia 组件库实现 fluent design 渲染AssignSticker主页面。
+
+
+  
 
 ---

@@ -4,7 +4,7 @@ import { zhcollections, encollections } from './collections'
 
 const currentYear = new Date().getFullYear()
 export default defineThemeConfig({
-  logo: '/logo.png',
+  logo: '/icon.png',
 
   appearance: true,
 
